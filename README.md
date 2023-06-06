@@ -5,7 +5,7 @@
 
 
 
-![Moriarthyy GitHub stats](https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&theme=dark)
+![Moriarthyy GitHub stats](https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&theme=aura)
  
 
 <div style="display: inline_block">
