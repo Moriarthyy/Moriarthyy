@@ -1,6 +1,8 @@
 
 ![Moriarthyy GitHub stats](https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&theme=aura)
  
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&theme=radical"/>
+
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,4 +13,4 @@
 
 </div>
  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&theme=radical"/>
+
