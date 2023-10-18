@@ -1,7 +1,7 @@
 
 ![Moriarthyy GitHub stats](https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&theme=aura)
  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&theme=radical"/>
+<img width="100px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&theme=radical"/>
 
 
 <div style="display: inline_block">
