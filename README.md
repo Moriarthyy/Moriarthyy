@@ -17,7 +17,7 @@
   <img 
     alt="Tecnologias" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&custom_title=Techs&langs_count=9&theme=aura" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&custom_title=Techs&langs_count=9&theme=dark"
   />
 </div>
 
