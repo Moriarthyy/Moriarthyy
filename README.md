@@ -6,20 +6,19 @@
 
 ## STATS
 
+<p>
+    <img 
+        alt="GitHub Stats" 
+        height="140" 
+        src="https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&include_all_commits=true&theme=dark" 
+    />
+    <img 
+        alt="Tecnologias" 
+        weight="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&custom_title=Techs&langs_count=9&theme=dark"
+    />
+</p>
 
-<div style="display: flex; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&include_all_commits=true&theme=dark" 
-  />
-
-  <img 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriarthyy&layout=compact&custom_title=Techs&langs_count=9&theme=dark"
-  />
-</div>
 
 ## TECHS
 
