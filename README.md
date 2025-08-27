@@ -112,4 +112,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-ori
     title="SWAGGER"
     width="30px"
     style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
