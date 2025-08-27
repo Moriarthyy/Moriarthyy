@@ -11,7 +11,7 @@
   <img 
     alt="GitHub Stats" 
     height="200" 
-    ![Moriarthyy GitHub stats](https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&theme=aura&include_all_commits=true)
+    src="https://github-readme-stats.vercel.app/api?username=Moriarthyy&show_icons=true&include_all_commits=true&theme=dark" 
   />
 
   <img 
